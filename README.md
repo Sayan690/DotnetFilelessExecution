@@ -2,7 +2,7 @@
 
 ## Overview
 
-DotnetFilelessExecution is the very basic demonstration of how to fetch a .NET assembly remotely and the execute it on the client side directly in memory, i.e., without having to save the assembly on the disk.
+DotnetFilelessExecution (DFE) is the very basic demonstration of how to fetch a .NET assembly remotely and the execute it on the client side directly in memory, i.e., without having to save the assembly on the disk.
 
 ## Compilation
 
