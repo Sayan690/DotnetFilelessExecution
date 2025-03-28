@@ -27,7 +27,7 @@ nc -nvlp 80 < winrev.exe
 ```
 
 ## Note
-For demonstration purposes, the connect back address is hard coded inside the program, which can be changed as needed.
+For demonstration purposes, the connect back addresses is hardcoded in the source files. In order to make most of this program, please consider to change that according to your desired needs.
 
 ## Disclaimer
 This project is intended for educational and security testing purposes only. The author is not responsible for any misuse of this tool.
